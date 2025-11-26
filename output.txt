@@ -1,0 +1,595 @@
+Board Test 1: Creating board with puz1
+This should create a board of 9 x 9 grid
+Board constructor called.
+Square[1,1] created.Deleting Square[1,1]
+Square[1,2] created.Deleting Square[1,2]
+Square[1,3] created.Deleting Square[1,3]
+Square[1,4] created.Deleting Square[1,4]
+Square[1,5] created.Deleting Square[1,5]
+Square[1,6] created.Deleting Square[1,6]
+Square[1,7] created.Deleting Square[1,7]
+Square[1,8] created.Deleting Square[1,8]
+Square[1,9] created.Deleting Square[1,9]
+Square[2,1] created.Deleting Square[2,1]
+Square[2,2] created.Deleting Square[2,2]
+Square[2,3] created.Deleting Square[2,3]
+Square[2,4] created.Deleting Square[2,4]
+Square[2,5] created.Deleting Square[2,5]
+Square[2,6] created.Deleting Square[2,6]
+Square[2,7] created.Deleting Square[2,7]
+Square[2,8] created.Deleting Square[2,8]
+Square[2,9] created.Deleting Square[2,9]
+Square[3,1] created.Deleting Square[3,1]
+Square[3,2] created.Deleting Square[3,2]
+Square[3,3] created.Deleting Square[3,3]
+Square[3,4] created.Deleting Square[3,4]
+Square[3,5] created.Deleting Square[3,5]
+Square[3,6] created.Deleting Square[3,6]
+Square[3,7] created.Deleting Square[3,7]
+Square[3,8] created.Deleting Square[3,8]
+Square[3,9] created.Deleting Square[3,9]
+Square[4,1] created.Deleting Square[4,1]
+Square[4,2] created.Deleting Square[4,2]
+Square[4,3] created.Deleting Square[4,3]
+Square[4,4] created.Deleting Square[4,4]
+Square[4,5] created.Deleting Square[4,5]
+Square[4,6] created.Deleting Square[4,6]
+Square[4,7] created.Deleting Square[4,7]
+Square[4,8] created.Deleting Square[4,8]
+Square[4,9] created.Deleting Square[4,9]
+Square[5,1] created.Deleting Square[5,1]
+Square[5,2] created.Deleting Square[5,2]
+Square[5,3] created.Deleting Square[5,3]
+Square[5,4] created.Deleting Square[5,4]
+Square[5,5] created.Deleting Square[5,5]
+Square[5,6] created.Deleting Square[5,6]
+Square[5,7] created.Deleting Square[5,7]
+Square[5,8] created.Deleting Square[5,8]
+Square[5,9] created.Deleting Square[5,9]
+Square[6,1] created.Deleting Square[6,1]
+Square[6,2] created.Deleting Square[6,2]
+Square[6,3] created.Deleting Square[6,3]
+Square[6,4] created.Deleting Square[6,4]
+Square[6,5] created.Deleting Square[6,5]
+Square[6,6] created.Deleting Square[6,6]
+Square[6,7] created.Deleting Square[6,7]
+Square[6,8] created.Deleting Square[6,8]
+Square[6,9] created.Deleting Square[6,9]
+Square[7,1] created.Deleting Square[7,1]
+Square[7,2] created.Deleting Square[7,2]
+Square[7,3] created.Deleting Square[7,3]
+Square[7,4] created.Deleting Square[7,4]
+Square[7,5] created.Deleting Square[7,5]
+Square[7,6] created.Deleting Square[7,6]
+Square[7,7] created.Deleting Square[7,7]
+Square[7,8] created.Deleting Square[7,8]
+Square[7,9] created.Deleting Square[7,9]
+Square[8,1] created.Deleting Square[8,1]
+Square[8,2] created.Deleting Square[8,2]
+Square[8,3] created.Deleting Square[8,3]
+Square[8,4] created.Deleting Square[8,4]
+Square[8,5] created.Deleting Square[8,5]
+Square[8,6] created.Deleting Square[8,6]
+Square[8,7] created.Deleting Square[8,7]
+Square[8,8] created.Deleting Square[8,8]
+Square[8,9] created.Deleting Square[8,9]
+Square[9,1] created.Deleting Square[9,1]
+Square[9,2] created.Deleting Square[9,2]
+Square[9,3] created.Deleting Square[9,3]
+Square[9,4] created.Deleting Square[9,4]
+Square[9,5] created.Deleting Square[9,5]
+Square[9,6] created.Deleting Square[9,6]
+Square[9,7] created.Deleting Square[9,7]
+Square[9,8] created.Deleting Square[9,8]
+Square[9,9] created.Deleting Square[9,9]
+Cluster [Row] created.
+Cluster [Column] created.
+Cluster [Row] created.
+Cluster [Column] created.
+Cluster [Row] created.
+Cluster [Column] created.
+Cluster [Row] created.
+Cluster [Column] created.
+Cluster [Row] created.
+Cluster [Column] created.
+Cluster [Row] created.
+Cluster [Column] created.
+Cluster [Row] created.
+Cluster [Column] created.
+Cluster [Row] created.
+Cluster [Column] created.
+Cluster [Row] created.
+Cluster [Column] created.
+Cluster [Box] created.
+Cluster [Box] created.
+Cluster [Box] created.
+Cluster [Box] created.
+Cluster [Box] created.
+Cluster [Box] created.
+Cluster [Box] created.
+Cluster [Box] created.
+Cluster [Box] created.
+Board is constructed.
+Board initialized successfully.
+Board details:
+Square [1,1] | Value: 4 | Fixed: 1 | Possibilities: ---------
+Square [1,2] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [1,3] | Value: 6 | Fixed: 1 | Possibilities: ---------
+Square [1,4] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [1,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [1,6] | Value: 7 | Fixed: 1 | Possibilities: ---------
+Square [1,7] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [1,8] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [1,9] | Value: 3 | Fixed: 1 | Possibilities: ---------
+
+Square [2,1] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [2,2] | Value: 9 | Fixed: 1 | Possibilities: ---------
+Square [2,3] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [2,4] | Value: 5 | Fixed: 1 | Possibilities: ---------
+Square [2,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [2,6] | Value: 6 | Fixed: 1 | Possibilities: ---------
+Square [2,7] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [2,8] | Value: 7 | Fixed: 1 | Possibilities: ---------
+Square [2,9] | Value: - | Fixed: 0 | Possibilities: 987654321
+
+Square [3,1] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [3,2] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [3,3] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [3,4] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [3,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [3,6] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [3,7] | Value: 5 | Fixed: 1 | Possibilities: ---------
+Square [3,8] | Value: 8 | Fixed: 1 | Possibilities: ---------
+Square [3,9] | Value: - | Fixed: 0 | Possibilities: 987654321
+
+Square [4,1] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [4,2] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [4,3] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [4,4] | Value: 9 | Fixed: 1 | Possibilities: ---------
+Square [4,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [4,6] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [4,7] | Value: 3 | Fixed: 1 | Possibilities: ---------
+Square [4,8] | Value: 4 | Fixed: 1 | Possibilities: ---------
+Square [4,9] | Value: - | Fixed: 0 | Possibilities: 987654321
+
+Square [5,1] | Value: 3 | Fixed: 1 | Possibilities: ---------
+Square [5,2] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [5,3] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [5,4] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [5,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [5,6] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [5,7] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [5,8] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [5,9] | Value: 8 | Fixed: 1 | Possibilities: ---------
+
+Square [6,1] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [6,2] | Value: 7 | Fixed: 1 | Possibilities: ---------
+Square [6,3] | Value: 8 | Fixed: 1 | Possibilities: ---------
+Square [6,4] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [6,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [6,6] | Value: 4 | Fixed: 1 | Possibilities: ---------
+Square [6,7] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [6,8] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [6,9] | Value: - | Fixed: 0 | Possibilities: 987654321
+
+Square [7,1] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [7,2] | Value: 1 | Fixed: 1 | Possibilities: ---------
+Square [7,3] | Value: 7 | Fixed: 1 | Possibilities: ---------
+Square [7,4] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [7,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [7,6] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [7,7] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [7,8] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [7,9] | Value: - | Fixed: 0 | Possibilities: 987654321
+
+Square [8,1] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [8,2] | Value: 8 | Fixed: 1 | Possibilities: ---------
+Square [8,3] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [8,4] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [8,5] | Value: 2 | Fixed: 1 | Possibilities: ---------
+Square [8,6] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [8,7] | Value: 9 | Fixed: 1 | Possibilities: ---------
+Square [8,8] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [8,9] | Value: 6 | Fixed: 1 | Possibilities: ---------
+
+Square [9,1] | Value: 9 | Fixed: 1 | Possibilities: ---------
+Square [9,2] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [9,3] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [9,4] | Value: 7 | Fixed: 1 | Possibilities: ---------
+Square [9,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [9,6] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [9,7] | Value: 8 | Fixed: 1 | Possibilities: ---------
+Square [9,8] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [9,9] | Value: 4 | Fixed: 1 | Possibilities: ---------
+
+Clusters on the Board:
+Details for Cluster 1:
+Cluster [Row]
+Square [1,1] | Value: 4 | Fixed: 1 | Possibilities: ---------
+Square [1,2] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [1,3] | Value: 6 | Fixed: 1 | Possibilities: ---------
+Square [1,4] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [1,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [1,6] | Value: 7 | Fixed: 1 | Possibilities: ---------
+Square [1,7] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [1,8] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [1,9] | Value: 3 | Fixed: 1 | Possibilities: ---------
+
+
+Details for Cluster 2:
+Cluster [Column]
+Square [1,1] | Value: 4 | Fixed: 1 | Possibilities: ---------
+Square [2,1] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [3,1] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [4,1] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [5,1] | Value: 3 | Fixed: 1 | Possibilities: ---------
+Square [6,1] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [7,1] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [8,1] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [9,1] | Value: 9 | Fixed: 1 | Possibilities: ---------
+
+
+Details for Cluster 3:
+Cluster [Row]
+Square [2,1] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [2,2] | Value: 9 | Fixed: 1 | Possibilities: ---------
+Square [2,3] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [2,4] | Value: 5 | Fixed: 1 | Possibilities: ---------
+Square [2,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [2,6] | Value: 6 | Fixed: 1 | Possibilities: ---------
+Square [2,7] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [2,8] | Value: 7 | Fixed: 1 | Possibilities: ---------
+Square [2,9] | Value: - | Fixed: 0 | Possibilities: 987654321
+
+
+Details for Cluster 4:
+Cluster [Column]
+Square [1,2] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [2,2] | Value: 9 | Fixed: 1 | Possibilities: ---------
+Square [3,2] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [4,2] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [5,2] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [6,2] | Value: 7 | Fixed: 1 | Possibilities: ---------
+Square [7,2] | Value: 1 | Fixed: 1 | Possibilities: ---------
+Square [8,2] | Value: 8 | Fixed: 1 | Possibilities: ---------
+Square [9,2] | Value: - | Fixed: 0 | Possibilities: 987654321
+
+
+Details for Cluster 5:
+Cluster [Row]
+Square [3,1] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [3,2] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [3,3] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [3,4] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [3,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [3,6] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [3,7] | Value: 5 | Fixed: 1 | Possibilities: ---------
+Square [3,8] | Value: 8 | Fixed: 1 | Possibilities: ---------
+Square [3,9] | Value: - | Fixed: 0 | Possibilities: 987654321
+
+
+Details for Cluster 6:
+Cluster [Column]
+Square [1,3] | Value: 6 | Fixed: 1 | Possibilities: ---------
+Square [2,3] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [3,3] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [4,3] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [5,3] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [6,3] | Value: 8 | Fixed: 1 | Possibilities: ---------
+Square [7,3] | Value: 7 | Fixed: 1 | Possibilities: ---------
+Square [8,3] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [9,3] | Value: - | Fixed: 0 | Possibilities: 987654321
+
+
+Details for Cluster 7:
+Cluster [Row]
+Square [4,1] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [4,2] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [4,3] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [4,4] | Value: 9 | Fixed: 1 | Possibilities: ---------
+Square [4,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [4,6] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [4,7] | Value: 3 | Fixed: 1 | Possibilities: ---------
+Square [4,8] | Value: 4 | Fixed: 1 | Possibilities: ---------
+Square [4,9] | Value: - | Fixed: 0 | Possibilities: 987654321
+
+
+Details for Cluster 8:
+Cluster [Column]
+Square [1,4] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [2,4] | Value: 5 | Fixed: 1 | Possibilities: ---------
+Square [3,4] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [4,4] | Value: 9 | Fixed: 1 | Possibilities: ---------
+Square [5,4] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [6,4] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [7,4] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [8,4] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [9,4] | Value: 7 | Fixed: 1 | Possibilities: ---------
+
+
+Details for Cluster 9:
+Cluster [Row]
+Square [5,1] | Value: 3 | Fixed: 1 | Possibilities: ---------
+Square [5,2] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [5,3] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [5,4] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [5,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [5,6] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [5,7] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [5,8] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [5,9] | Value: 8 | Fixed: 1 | Possibilities: ---------
+
+
+Details for Cluster 10:
+Cluster [Column]
+Square [1,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [2,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [3,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [4,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [5,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [6,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [7,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [8,5] | Value: 2 | Fixed: 1 | Possibilities: ---------
+Square [9,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+
+
+Details for Cluster 11:
+Cluster [Row]
+Square [6,1] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [6,2] | Value: 7 | Fixed: 1 | Possibilities: ---------
+Square [6,3] | Value: 8 | Fixed: 1 | Possibilities: ---------
+Square [6,4] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [6,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [6,6] | Value: 4 | Fixed: 1 | Possibilities: ---------
+Square [6,7] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [6,8] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [6,9] | Value: - | Fixed: 0 | Possibilities: 987654321
+
+
+Details for Cluster 12:
+Cluster [Column]
+Square [1,6] | Value: 7 | Fixed: 1 | Possibilities: ---------
+Square [2,6] | Value: 6 | Fixed: 1 | Possibilities: ---------
+Square [3,6] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [4,6] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [5,6] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [6,6] | Value: 4 | Fixed: 1 | Possibilities: ---------
+Square [7,6] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [8,6] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [9,6] | Value: - | Fixed: 0 | Possibilities: 987654321
+
+
+Details for Cluster 13:
+Cluster [Row]
+Square [7,1] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [7,2] | Value: 1 | Fixed: 1 | Possibilities: ---------
+Square [7,3] | Value: 7 | Fixed: 1 | Possibilities: ---------
+Square [7,4] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [7,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [7,6] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [7,7] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [7,8] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [7,9] | Value: - | Fixed: 0 | Possibilities: 987654321
+
+
+Details for Cluster 14:
+Cluster [Column]
+Square [1,7] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [2,7] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [3,7] | Value: 5 | Fixed: 1 | Possibilities: ---------
+Square [4,7] | Value: 3 | Fixed: 1 | Possibilities: ---------
+Square [5,7] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [6,7] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [7,7] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [8,7] | Value: 9 | Fixed: 1 | Possibilities: ---------
+Square [9,7] | Value: 8 | Fixed: 1 | Possibilities: ---------
+
+
+Details for Cluster 15:
+Cluster [Row]
+Square [8,1] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [8,2] | Value: 8 | Fixed: 1 | Possibilities: ---------
+Square [8,3] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [8,4] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [8,5] | Value: 2 | Fixed: 1 | Possibilities: ---------
+Square [8,6] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [8,7] | Value: 9 | Fixed: 1 | Possibilities: ---------
+Square [8,8] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [8,9] | Value: 6 | Fixed: 1 | Possibilities: ---------
+
+
+Details for Cluster 16:
+Cluster [Column]
+Square [1,8] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [2,8] | Value: 7 | Fixed: 1 | Possibilities: ---------
+Square [3,8] | Value: 8 | Fixed: 1 | Possibilities: ---------
+Square [4,8] | Value: 4 | Fixed: 1 | Possibilities: ---------
+Square [5,8] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [6,8] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [7,8] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [8,8] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [9,8] | Value: - | Fixed: 0 | Possibilities: 987654321
+
+
+Details for Cluster 17:
+Cluster [Row]
+Square [9,1] | Value: 9 | Fixed: 1 | Possibilities: ---------
+Square [9,2] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [9,3] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [9,4] | Value: 7 | Fixed: 1 | Possibilities: ---------
+Square [9,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [9,6] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [9,7] | Value: 8 | Fixed: 1 | Possibilities: ---------
+Square [9,8] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [9,9] | Value: 4 | Fixed: 1 | Possibilities: ---------
+
+
+Details for Cluster 18:
+Cluster [Column]
+Square [1,9] | Value: 3 | Fixed: 1 | Possibilities: ---------
+Square [2,9] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [3,9] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [4,9] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [5,9] | Value: 8 | Fixed: 1 | Possibilities: ---------
+Square [6,9] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [7,9] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [8,9] | Value: 6 | Fixed: 1 | Possibilities: ---------
+Square [9,9] | Value: 4 | Fixed: 1 | Possibilities: ---------
+
+
+Details for Cluster 19:
+Cluster [Box]
+Square [1,1] | Value: 4 | Fixed: 1 | Possibilities: ---------
+Square [1,2] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [1,3] | Value: 6 | Fixed: 1 | Possibilities: ---------
+Square [2,1] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [2,2] | Value: 9 | Fixed: 1 | Possibilities: ---------
+Square [2,3] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [3,1] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [3,2] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [3,3] | Value: - | Fixed: 0 | Possibilities: 987654321
+
+
+Details for Cluster 20:
+Cluster [Box]
+Square [1,4] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [1,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [1,6] | Value: 7 | Fixed: 1 | Possibilities: ---------
+Square [2,4] | Value: 5 | Fixed: 1 | Possibilities: ---------
+Square [2,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [2,6] | Value: 6 | Fixed: 1 | Possibilities: ---------
+Square [3,4] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [3,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [3,6] | Value: - | Fixed: 0 | Possibilities: 987654321
+
+
+Details for Cluster 21:
+Cluster [Box]
+Square [1,7] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [1,8] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [1,9] | Value: 3 | Fixed: 1 | Possibilities: ---------
+Square [2,7] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [2,8] | Value: 7 | Fixed: 1 | Possibilities: ---------
+Square [2,9] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [3,7] | Value: 5 | Fixed: 1 | Possibilities: ---------
+Square [3,8] | Value: 8 | Fixed: 1 | Possibilities: ---------
+Square [3,9] | Value: - | Fixed: 0 | Possibilities: 987654321
+
+
+Details for Cluster 22:
+Cluster [Box]
+Square [4,1] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [4,2] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [4,3] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [5,1] | Value: 3 | Fixed: 1 | Possibilities: ---------
+Square [5,2] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [5,3] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [6,1] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [6,2] | Value: 7 | Fixed: 1 | Possibilities: ---------
+Square [6,3] | Value: 8 | Fixed: 1 | Possibilities: ---------
+
+
+Details for Cluster 23:
+Cluster [Box]
+Square [4,4] | Value: 9 | Fixed: 1 | Possibilities: ---------
+Square [4,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [4,6] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [5,4] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [5,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [5,6] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [6,4] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [6,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [6,6] | Value: 4 | Fixed: 1 | Possibilities: ---------
+
+
+Details for Cluster 24:
+Cluster [Box]
+Square [4,7] | Value: 3 | Fixed: 1 | Possibilities: ---------
+Square [4,8] | Value: 4 | Fixed: 1 | Possibilities: ---------
+Square [4,9] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [5,7] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [5,8] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [5,9] | Value: 8 | Fixed: 1 | Possibilities: ---------
+Square [6,7] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [6,8] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [6,9] | Value: - | Fixed: 0 | Possibilities: 987654321
+
+
+Details for Cluster 25:
+Cluster [Box]
+Square [7,1] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [7,2] | Value: 1 | Fixed: 1 | Possibilities: ---------
+Square [7,3] | Value: 7 | Fixed: 1 | Possibilities: ---------
+Square [8,1] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [8,2] | Value: 8 | Fixed: 1 | Possibilities: ---------
+Square [8,3] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [9,1] | Value: 9 | Fixed: 1 | Possibilities: ---------
+Square [9,2] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [9,3] | Value: - | Fixed: 0 | Possibilities: 987654321
+
+
+Details for Cluster 26:
+Cluster [Box]
+Square [7,4] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [7,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [7,6] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [8,4] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [8,5] | Value: 2 | Fixed: 1 | Possibilities: ---------
+Square [8,6] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [9,4] | Value: 7 | Fixed: 1 | Possibilities: ---------
+Square [9,5] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [9,6] | Value: - | Fixed: 0 | Possibilities: 987654321
+
+
+Details for Cluster 27:
+Cluster [Box]
+Square [7,7] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [7,8] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [7,9] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [8,7] | Value: 9 | Fixed: 1 | Possibilities: ---------
+Square [8,8] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [8,9] | Value: 6 | Fixed: 1 | Possibilities: ---------
+Square [9,7] | Value: 8 | Fixed: 1 | Possibilities: ---------
+Square [9,8] | Value: - | Fixed: 0 | Possibilities: 987654321
+Square [9,9] | Value: 4 | Fixed: 1 | Possibilities: ---------
+
+
+Board Test 1.1: Testing with board type s
+This should create a board of 6 x 6 grid
+Board constructor called.
+Square[1,1] created.Deleting Square[1,1]
+Square[1,2] created.Deleting Square[1,2]
+Square[1,3] created.Deleting Square[1,3]
+Square[1,4] created.Deleting Square[1,4]
+Square[1,5] created.Deleting Square[1,5]
+Square[1,6] created.Deleting Square[1,6]
+Square[2,1] created.Deleting Square[2,1]
+Square[2,2] created.Deleting Square[2,2]
+Square[2,3] created.Deleting Square[2,3]
+Square[2,4] created.Deleting Square[2,4]
+Square[2,5] created.Deleting Square[2,5]
+Square[2,6] created.Deleting Square[2,6]
+Square[3,1] created.Deleting Square[3,1]
+Square[3,2] created.Deleting Square[3,2]
+Square[3,3] created.Deleting Square[3,3]
+Square[3,4] created.Deleting Square[3,4]
+Square[3,5] created.Deleting Square[3,5]
+Square[3,6] created.Deleting Square[3,6]
+Square[4,1] created.Deleting Square[4,1]
+Square[4,2] created.Deleting Square[4,2]
+Square[4,3] created.Deleting Square[4,3]
+Square[4,4] created.Deleting Square[4,4]
+Square[4,5] created.Deleting Square[4,5]
+Square[4,6] created.Deleting Square[4,6]
+Square[5,1] created.Deleting Square[5,1]
+Square[5,2] created.Deleting Square[5,2]
+Square[5,3] created.Deleting Square[5,3]
+Square[5,4] created.Deleting Square[5,4]
+Square[5,5] created.Deleting Square[5,5]
+Square[5,6] created.Deleting Square[5,6]
+Square[6,1] created.Deleting Square[6,1]
+Square[6,2] created.Deleting Square[6,2]
+Square[6,3] created.Deleting Square[6,3]
+Square[6,4] created.Deleting Square[6,4]
+Square[6,5] created.Deleting Square[6,5]
+Square[6,6] created.Deleting Square[6,6]
